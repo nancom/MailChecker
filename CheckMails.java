@@ -12,7 +12,7 @@ import javax.mail.search.*;
 import java.text.*;
 import javax.activation.DataHandler;
 
-public class CheckingMails {
+public class CheckMails {
 
 public static void check(String host, String storeType, String user,String password,int mailCount,String filter,String subjectFilter){
 
